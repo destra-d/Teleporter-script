@@ -1,5 +1,5 @@
 --[[
-    Galaxy Teleporter GUI with Advanced Features
+    Galaxy Teleporter GUI with Advanced Features - FIXED
     -----------------------------------------------
     A LocalScript that lets a player:
       - Save positions and teleport (3 methods: instant, smooth, realistic)
