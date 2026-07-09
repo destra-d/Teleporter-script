@@ -12,7 +12,5 @@ it's useful for some games
 ignore Misc tab 
 it's still need fix
 # 🚀 script
-[![loadstring](https://img.shields.io/badge/Load-Script-blue?style=for-the-badge)](https://raw.githubusercontent.com/destra-d/Teleporter-script/main/script.lua)
-
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/destra-d/Teleporter-script/main/script.lua'))()
