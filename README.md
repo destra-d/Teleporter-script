@@ -11,5 +11,6 @@ this is v1 alpha still in progress
 it's useful for some games 
 ignore Misc tab 
 it's still need fix
-#script 
-#loadstring(game:HttpGet('https://raw.githubusercontent.com/destra-d/Teleporter-script/main/script.lua'))()
+# script
+
+# loadstring(game:HttpGet('https://raw.githubusercontent.com/destra-d/Teleporter-script/main/script.lua'))()
